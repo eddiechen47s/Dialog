@@ -1,0 +1,20 @@
+PODS:
+  - DropDown (2.3.13)
+  - MJPEGStreamLib (0.2.1)
+
+DEPENDENCIES:
+  - DropDown
+  - MJPEGStreamLib
+
+SPEC REPOS:
+  trunk:
+    - DropDown
+    - MJPEGStreamLib
+
+SPEC CHECKSUMS:
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  MJPEGStreamLib: 516e82b6bcd93cac6d671a37052a15908502e6c5
+
+PODFILE CHECKSUM: c61b3f4192b240bda71394c8c052bed57aecf7df
+
+COCOAPODS: 1.9.1
